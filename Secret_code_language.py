@@ -1,4 +1,8 @@
-# Secret Code Language
+"""
+Secret Code Language
+This code is help you to code and decode your secret messages from your friends and families
+
+"""
 import os
 import time
 import random
